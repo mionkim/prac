@@ -1,0 +1,20 @@
+* {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.mytitle {
+    color: white;
+    width: 350px;
+    height: 400px;
+    background-image: url('https://lh3.googleusercontent.com/proxy/F-XI-nwIw7uJCRmRTD8xj67P4tgF_e52R1sjk7tMGzDk6d3KEZ7UIzzicjGog_eLdn7AEG2WaXdGRxUMdZV_IFpJf7R8bAEZJfF5uNOpXH_RQs7bPFI');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.wrap {
+    width: 300px;
+    margin: auto;
+}
